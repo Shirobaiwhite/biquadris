@@ -1,0 +1,2 @@
+Extra Credit Features
+- User interface including a welcome page and a page for each player to enter his/her name, and an option (command) called “help” which provides instruction of the game to players if needed. At the end of the game a winner is decided, and each player’s score is announced.
